@@ -1,5 +1,5 @@
 <?php
-echo "p:" .$_GET['pass']
+echo "p:" .$_GET['pass'];
 echo "u:".$_GET['user'];
 
 ?>
